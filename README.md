@@ -1,5 +1,5 @@
-th_sensor
-=========
+axon-sensor-th
+==============
 
 Axon sensor module to measure temperature and humidity
 
@@ -37,4 +37,4 @@ First set the parameters in the first part of the [`axon-sensor-th.ino`](axon-se
 
 ```
 
-Then compile and upload with the [Arduino ID](https://www.arduino.cc/en/main/software).
+Then compile and upload with the [Arduino IDE](https://www.arduino.cc/en/main/software).
